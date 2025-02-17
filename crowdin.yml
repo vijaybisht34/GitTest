@@ -1,3 +1,0 @@
-files:
-  - source: /dictionaries/en-US/dictionary.json
-    translation: /dictionaries/%locale%/%original_file_name%
