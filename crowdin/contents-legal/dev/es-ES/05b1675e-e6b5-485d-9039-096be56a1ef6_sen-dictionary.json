@@ -1,0 +1,15 @@
+{
+  "en-US": {
+    "xxxxxxxxxxxxxxxxxxxxxxxxxxxxx": {
+      "zzzz-notice": {
+        "zzzz Notice": "zzzz Notice"
+      },
+      "vvvvvvv-id-reference": {
+        "vvvvvvv ID Reference": "Account ID Reference"
+      },
+      "vvvvvvv-id-reference-222": {
+        "Test string label": "Test string label"
+      }
+    }
+  }
+}
