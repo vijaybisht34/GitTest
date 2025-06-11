@@ -1,3 +1,7 @@
 files:
   - source: /translations/en-US/dictionary.json
     translation: /translations/%locale%/%original_file_name%
+  - source: /crowdin/contents-legal/dev/en-US/*.json
+    translation: /crowdin/contents-legal/dev/%locale%/%original_file_name%
+    type: json
+    update_option: update_as_unapproved
